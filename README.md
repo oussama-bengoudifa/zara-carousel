@@ -1,6 +1,5 @@
 # Zara Carousel
 
-
-![Alt Text](./zara-carousel.gif)
+<img src="./zara-carousel.gif" alt="Alt" width="300" height="200" alt="preview" />
 
 
